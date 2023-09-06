@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>1949.jpg</filename>
+		<size>
+			<width>1280</width>
+			<height>720</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>non_traffic_accident</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>122</xmin>
+				<ymin>402</ymin>
+				<xmax>553</xmax>
+				<ymax>616</ymax>
+			</bndbox>
+		</object>
+	</annotation>
